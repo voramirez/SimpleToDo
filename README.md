@@ -2,7 +2,7 @@
 
 Submitted by: **Veronica Ramirez**
 
-Time spent: **15** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
